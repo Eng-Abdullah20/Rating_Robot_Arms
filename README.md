@@ -1,4 +1,4 @@
-Controlling Robot Arms Technical Description 
+Controlling Rating Robot Arms Technical Description 
 
 1.	Hardware Description
 
